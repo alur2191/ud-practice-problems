@@ -20,3 +20,15 @@ function solve() {
 }
 
 console.log(solve())
+
+// OUTPUT: [
+//   'BRR',   'BRRR',   'CH',
+//   'CRWTH', 'CRWTHS', 'CWM',
+//   'CWMS',  'CWTCH',  'HM',
+//   'HMM',   'MM',     'NTH',
+//   'PFFT',  'PHPHT',  'PHT',
+//   'PSST',  'PST',    'SH',
+//   'SHH',   'ST',     'TSK',
+//   'TSKS',  'TSKTSK', 'TSKTSKS',
+//   'TWP',   'ZZZ',    'ZZZS'
+// ]

@@ -2,7 +2,7 @@ const fs = require('fs');
 const file = fs.readFileSync("../sowpods.txt")
 const words = file.toString().split('\n')
 
-// Which of the letters Q, X, and Z is the least common?
+// PROBLEM: Which of the letters Q, X, and Z is the least common?
 
 function solve() {
   const total = [0, 0, 0]
@@ -34,3 +34,5 @@ function solve() {
 }
 
 console.log(solve(words))
+
+// OUTPUT: Q = 4104

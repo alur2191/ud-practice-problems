@@ -2,7 +2,7 @@ const fs = require('fs');
 const file = fs.readFileSync("../sowpods.txt")
 const words = file.toString().split('\n')
 
-// What is the longest word that contains no vowels?
+// PROBLEM: What is the longest word that contains no vowels?
 
 function solve() {
   let result = []
@@ -26,3 +26,5 @@ function solve() {
 }
 
 console.log(solve())
+
+// OUTPUT: GLYCYLS

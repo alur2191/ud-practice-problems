@@ -17,3 +17,5 @@ function filter() {
 }
 
 console.log(filter())
+
+// OUTPUT: 208

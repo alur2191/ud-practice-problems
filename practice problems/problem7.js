@@ -16,3 +16,20 @@ function solve() {
 }
 
 console.log(solve())
+
+// OUTPUT: [
+//   'YABBY',      'YAMPY',     'YAPPINGLY',
+//   'YAPPY',      'YARELY',    'YATTERINGLY',
+//   'YAWEY',      'YAWNINGLY', 'YAWNY',
+//   'YAWY',       'YAY',       'YEARLY',
+//   'YEARNINGLY', 'YEASTILY',  'YEASTY',
+//   'YECHY',      'YELLOWLY',  'YELLOWY',
+//   'YEOMANLY',   'YEOMANRY',  'YESTERDAY',
+//   'YESTY',      'YEUKY',     'YIELDINGLY',
+//   'YIPPY',      'YOBBERY',   'YOBBISHLY',
+//   'YOLKY',      'YONDERLY',  'YOUNGBERRY',
+//   'YOUNGLY',    'YOUNGTHLY', 'YOUTHFULLY',
+//   'YOUTHLY',    'YOUTHY',    'YOWLEY',
+//   'YUCKY',      'YUKKY',     'YUKY',
+//   'YUMMY',      'YUPPIFY',   'YUPPY'
+// ]

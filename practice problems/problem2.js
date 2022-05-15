@@ -16,3 +16,17 @@ function solve() {
 }
 
 console.log(solve());
+
+// OUTPUT: [
+//   'DEOXYGENIZE',     'DEOXYGENIZED',
+//   'DEOXYGENIZES',    'DEOXYGENIZING',
+//   'EXOENZYME',       'EXOENZYMES',
+//   'HYDROXYZINE',     'HYDROXYZINES',
+//   'METHOXYBENZENE',  'METHOXYBENZENES',
+//   'OXYGENIZE',       'OXYGENIZED',
+//   'OXYGENIZER',      'OXYGENIZERS',
+//   'OXYGENIZES',      'OXYGENIZING',
+//   'OXYPHENBUTAZONE', 'ZANTHOXYL',
+//   'ZANTHOXYLS',      'ZANTHOXYLUM',
+//   'ZANTHOXYLUMS',    'ZOOTAXY'
+// ]

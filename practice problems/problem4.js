@@ -16,3 +16,10 @@ function solve() {
 }
 
 console.log(solve())
+
+// OUTPUT: [
+//   'CATCH', 'CATER',
+//   'CATES', 'CATTY',
+//   'DUCAT', 'SCATH',
+//   'SCATS', 'SCATT'
+// ]

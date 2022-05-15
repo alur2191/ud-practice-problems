@@ -24,3 +24,5 @@ function solve() {
 }
 
 console.log(solve())
+
+// OUTPUT: DOULEIA

@@ -16,3 +16,5 @@ function solve() {
 }
 
 console.log(solve())
+
+// OUTPUT: [ 'BOX', 'BOXY', 'BRUX', 'IBEX' ]

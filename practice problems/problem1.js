@@ -16,3 +16,19 @@ function solve() {
 }
 
 console.log(solve());
+
+// OUTPUT: [
+//   'BUSUUTI',       'BUSUUTIS',       'CARDUUS',
+//   'CARDUUSES',     'CONTINUUM',      'CONTINUUMS',
+//   'DUUMVIR',       'DUUMVIRAL',      'DUUMVIRATE',
+//   'DUUMVIRATES',   'DUUMVIRI',       'DUUMVIRS',
+//   'INDIVIDUUM',    'LITUUS',         'LITUUSES',
+//   'MENSTRUUM',     'MENSTRUUMS',     'MUTUUM',
+//   'MUTUUMS',       'MUUMUU',         'MUUMUUS',
+//   'PARAMENSTRUUM', 'PARAMENSTRUUMS', 'RESIDUUM',
+//   'RESIDUUMS',     'SQUUSH',         'SQUUSHED',
+//   'SQUUSHES',      'SQUUSHING',      'TRIDUUM',
+//   'TRIDUUMS',      'ULTRAVACUUM',    'ULTRAVACUUMS',
+//   'VACUUM',        'VACUUMED',       'VACUUMING',
+//   'VACUUMS',       'WELTANSCHAUUNG', 'WELTANSCHAUUNGS'
+// ]

@@ -17,3 +17,16 @@ function solve() {
 }
 
 console.log(solve())
+
+// OUTPUT: [
+//   'BRIGHTLY',    'DISTRAUGHTLY',
+//   'DOWNRIGHTLY', 'FORTHRIGHTLY',
+//   'FORTNIGHTLY', 'KNIGHTLY',
+//   'LIGHTLY',     'MIDNIGHTLY',
+//   'NIGHTLY',     'OUTRIGHTLY',
+//   'RIGHTLY',     'SIGHTLY',
+//   'SLIGHTLY',    'SPRIGHTLY',
+//   'STRAIGHTLY',  'TIGHTLY',
+//   'UNKNIGHTLY',  'UNSIGHTLY',
+//   'UPRIGHTLY',   'WIGHTLY'
+// ]

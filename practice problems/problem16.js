@@ -2,7 +2,7 @@ const fs = require('fs');
 const file = fs.readFileSync("../sowpods.txt")
 const words = file.toString().split('\n')
 
-// What is the longest palindrome?
+// PROBLEM: What is the longest palindrome?
 
 function solve() {
   let longest = ""
@@ -28,3 +28,6 @@ function solve() {
 }
 
 console.log(solve())
+
+
+// OUTPUT: ROTAVATOR

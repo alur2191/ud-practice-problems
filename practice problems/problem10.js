@@ -39,3 +39,14 @@ function solve() {
 
 
 console.log(solve())
+
+// OUTPUT: [
+//   'ABSTEMIOUS',     'ABSTEMIOUSLY',
+//   'ABSTENTIOUS',    'ADVENTITIOUS',
+//   'ADVENTITIOUSLY', 'ARENICOLOUS',
+//   'HALFSEERIOUSLY', 'ARSENIOUS',
+//   'CAESIOUS',       'CAVERNICOLOUS',
+//   'FACETIOUS',      'FACETIOUSLY',
+//   'HALFSERIOUSLY',  'LATERITIOUS',
+//   'PARECIOUS'
+// ]
